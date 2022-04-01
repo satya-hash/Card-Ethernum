@@ -1,2 +1,2 @@
-# Card-Ethernum
-card of Ethernum
+# Card-Etherem
+card of Etherem
